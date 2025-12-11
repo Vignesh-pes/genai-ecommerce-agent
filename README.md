@@ -240,11 +240,7 @@ Make publicly accessible.
 
 # 🎥 7. Demo Video (Add link here)
 
-Example:
-
-```
-https://youtu.be/your-demo-video
-```
+https://drive.google.com/drive/folders/1R1Urfevpcvvn-3bu-GL-i4zOhJwJxsBV
 
 ---
 
